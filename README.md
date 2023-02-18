@@ -20,6 +20,9 @@ After learning about progressive web applications I wanted to build something si
 
 When you visit the app at https://jate-the-pwa-text-editor.herokuapp.com/ - simply click the install button and the app will be available to you on your device. Otherwise, dont click install and use it on the web
 
+Once installed or not a user can type their notes into the editor and thats it. Anything typed is dynamically saved to the local storage and will be there once
+the app is booted again by the user
+
 
 ## Successes
 
